@@ -1,5 +1,17 @@
 package com.test1_POO;
 
+/*
+**********************************************************
+Programa: DesafioPoo
+Autor: Iago H. Nunes
+Criado em 02/09/2020
+Descricao:
+  Essa é a classe principal do programa, e aqui onde e 
+instanciado os animais e impresso sua características logo
+após.
+***********************************************************
+*/
+
 import com.test1_POO.model.*;
 
 public class AppMain {
@@ -11,7 +23,7 @@ public class AppMain {
 		Morcego morcego = new Morcego(3,0.15,"Preto",20);
 		Vaca vaca = new Vaca(7,1.27,"Malhada");
 		
-		//Imprimindo informa��es
+		//Imprimindo informações
 		System.out.println(galinha);
 		galinha.somEmitido();
 		System.out.println("\n"+pato);
