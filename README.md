@@ -7,7 +7,7 @@
   Para testa o código basta abrir o projeto e em sua pasta raiz haverá uma class com
 o nome "AppMain", executando por ela vai ser possível visualizar os resultados que vão ser exibidos.
 
-#WebScraping
+<h1>#WebScraping<br\></h1>
 
   O projeto WebScraping foi feito utilizando uma biblioteca de terceiros chamada "jsoup", para executar o
 projeto e necessário adicionar ela em seu IDE, ela se encontra na pasta "src\bibliotecaExtra\".
