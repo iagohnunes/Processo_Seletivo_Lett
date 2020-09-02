@@ -1,5 +1,17 @@
 package com.test1_POO.model;
 
+/*
+**********************************************************
+Programa: DesafioPoo
+Autor: Iago H. Nunes
+Criado em 02/09/2020
+Descricao:
+  Essa classe e a base para criações dos animais na fazenda,
+ela leva em seu corpo tudo aquilo que e de semelhante entre 
+eles.
+***********************************************************
+*/
+
 public abstract class Animal {
     protected int idade;
     protected double tamanho;
