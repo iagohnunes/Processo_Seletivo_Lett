@@ -50,6 +50,6 @@ public class Morcego extends Mamiferos implements Voo{
                 "\tcorDoPelo='" + corDoPelo + "\n" +
                 "\tidade=" + idade + " anos\n" +
                 "\ttamanho=" + tamanho + "m\n" +
-                "\taltitudeVoo=" + altitudeVoo + "m";
+                "\taltitu de Voo=" + altitudeVoo + "m";
     }
 }
